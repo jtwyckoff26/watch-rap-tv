@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/watch-rap-tv/static/css/main.5f361e03.chunk.css",
+    "main.js": "/watch-rap-tv/static/js/main.bd40316b.chunk.js",
+    "main.js.map": "/watch-rap-tv/static/js/main.bd40316b.chunk.js.map",
+    "runtime-main.js": "/watch-rap-tv/static/js/runtime-main.c727ce4b.js",
+    "runtime-main.js.map": "/watch-rap-tv/static/js/runtime-main.c727ce4b.js.map",
+    "static/js/2.688b8110.chunk.js": "/watch-rap-tv/static/js/2.688b8110.chunk.js",
+    "static/js/2.688b8110.chunk.js.map": "/watch-rap-tv/static/js/2.688b8110.chunk.js.map",
+    "index.html": "/watch-rap-tv/index.html",
+    "precache-manifest.27c37d9dd25bb0763e9a87bf21b82b61.js": "/watch-rap-tv/precache-manifest.27c37d9dd25bb0763e9a87bf21b82b61.js",
+    "service-worker.js": "/watch-rap-tv/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/watch-rap-tv/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.688b8110.chunk.js.LICENSE.txt": "/watch-rap-tv/static/js/2.688b8110.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c727ce4b.js",
+    "static/js/2.688b8110.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bd40316b.chunk.js"
+  ]
+}
